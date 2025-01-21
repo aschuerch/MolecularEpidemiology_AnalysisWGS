@@ -34,7 +34,7 @@ Click on 'New' on the right, and then on 'Terminal'
 
 ![jupyter interface](../fig/jup1.png)
 
-Now, terminal is open. The cursor should blink and await your input
+Now, a new terminal has started. The cursor should blink and await your input
 
 ![terminal](../fig/jup2.png)
 
