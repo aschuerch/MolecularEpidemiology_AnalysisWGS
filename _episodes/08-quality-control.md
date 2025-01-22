@@ -222,7 +222,7 @@ $ cd ~/dc_workshop/data/
 
 FastQC can accept multiple file names as input, so we can use the *.fastq wildcard to run FastQC on all of the FASTQ files in this directory. 
 ~~~
-$ fastqc *.fastq
+$ fastqc *.fastq.gz
 ~~~
 {: .bash}
 
