@@ -348,30 +348,12 @@ let's transfer them to our local computers (i.e. your laptop).
 
 # Moving files between your instance and your laptop
 
-We need to get the html files we produced to our own computers.There are also several ways to do this, but it's *always* easier
-to start the transfer locally. **This means if you're using a transfer program, it needs to be
-installed on your local machine, not on your instance. If you're typing into a terminal,
-the terminal should not be logged into your instance, it should be showing your local computer.**
+We need to get the html files we produced to our own computers.There are also several ways to do this, but we will use the Jupyter web-interface.
 
-FileZilla is one of many free FTP clients that allow you to move files between local and remote locations. 
+Go back to your Jupyter web-interface and press the refresh button on the top left. Search the directory 'dc_workshop', enter the 'data' directory and click on all .html files. 
+Now you can download them with the download button.
 
-It is convenient if you would like a graphical user interface to manage files and folders and if you have only a few files to move.
-
-
-- Enter the location and user credentials of the remote server you are connecting to (upper panel)
-- Enter your username and the password 
-- for port enter 22
-- Files on your local computer will be in the highlighted (left panel)
-- Your Desktop can be found in a folder called 'Users' > 'your computer's username' > and Desktop
-- Files on your remote computer will be in highlighted the right panel.
-- Move files between computers by drawing and dropping them in the desired locations.
-
-Tip: You can resize windows in FileZilla for easier viewing.
-
-![filezilla](../fig/filezilla.png)
-
-
-Now we can go to our new directory on your own computer and open the HTML files. 
+Now we can go to your Download directory on your own computer and open the HTML files. 
 
 > ## Exercise
 > 
