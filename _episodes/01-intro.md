@@ -40,19 +40,19 @@ The three clusters consist of:
 
 Cluster 1
 
-    - Patient A1 (2011) - sample ERR029207
-    - Patient A2 (2011) - sample ERR029206
-    - Patient A3 (2008) - sample ERR026478
+    - Patient A1 (2011) - sample ERR029207 - homeless
+    - Patient A2 (2011) - sample ERR029206 - frequent user of homeless shelters
+    - Patient A3 (2008) - sample ERR026478 - knows patient A1
 
 Cluster 2
 
     - Patient B1 (2001) - sample ERR026474
-    - Patient B2 (2012) - sample ERR026473
+    - Patient B2 (2012) - sample ERR026473 - same location as B1
 
 Cluster 3
 
     - Patient C1 (2011) - sample ERR026481
-    - Patient C2 (2016) - sample ERR026482
+    - Patient C2 (2016) - sample ERR026482 - same location as C1
 
 The second goal of this practicum is to affirm or dispute the inferred transmissions by comparing the bacterial genomes with each other. We will do that by identifying SNPs between the genomes. If time allows a different strategy can be employed as well: identifying variably present genes.
 
