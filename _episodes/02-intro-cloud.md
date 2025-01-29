@@ -8,8 +8,7 @@ objectives:
 - Log onto to a running server
 - Log off from a running server
 keypoints:
-- You can use putty to log in to a server
-- Logging off a server is not the same as turning off a server
+- You can use a web interface to log in to a server
 ---
 
 
@@ -37,5 +36,7 @@ Click on 'New' on the right, and then on 'Terminal'
 Now, a new terminal has started. The cursor should blink and await your input
 
 ![terminal](../fig/jup2.png)
+
+
 
 {% include links.md %}
